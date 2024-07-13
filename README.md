@@ -27,4 +27,4 @@ This repository provides the implementation of a neural network model designed t
     python train.py
 
 ## Post-Training
-After training the model and saving its weights, you need to integrate it into a chess engine. Refer to my [chess-engine repository](www.github.com/andr3wV/ChessEngine) for instructions on this integration.
+After training the model and saving its weights, you need to integrate it into a chess engine. Refer to my [chess-engine repository](https://github.com/andr3wV/ChessEngine) for instructions on this integration.
