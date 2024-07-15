@@ -1,5 +1,7 @@
 # Chess Position Evaluation Transformer
 
+Please refer to my [ChessEngine repository](https://github.com/andr3wV/ChessEngine) to view teh Neural Network. 
+
 ## Purpose
 
 This repository provides the implementation of a neural network model designed to rank chess positions from winning to losing. It includes a decoder-only transformer and a tokenizer. The tokenizer processes chess positions in FEN notation, and the model predicts their winning probabilities.
