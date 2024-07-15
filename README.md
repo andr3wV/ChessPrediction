@@ -1,6 +1,6 @@
 # Chess Position Evaluation Transformer
 
-Please refer to my [ChessEngine repository](https://github.com/andr3wV/ChessEngine) to view teh Neural Network. 
+Please refer to my [ChessEngine repository](https://github.com/andr3wV/ChessEngine) to view an implementation of the neural network. 
 
 ## Purpose
 
